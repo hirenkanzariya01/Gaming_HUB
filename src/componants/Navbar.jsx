@@ -16,7 +16,7 @@ function Navbar() {
               <li><Link to='/Shop' className='link'>Our Shop</Link></li>
               <li><Link to='/Product' className='link'>Product Details</Link></li>
               <li><Link to='/Contact' className='link'>Contact Us</Link></li>
-              <li><Link  className='link'>SIGN IN</Link></li>
+              <li><Link  className='link signIn'>SIGN IN</Link></li>
             </ul>
           </nav>
         </div>
