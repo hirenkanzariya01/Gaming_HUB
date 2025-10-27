@@ -1,0 +1,98 @@
+.TrandingSection {
+  padding: 0 115px;
+  margin-bottom: 50px;
+}
+
+.TRcards {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.header {
+  & h5 {
+    font-size: 18px;
+    color: #ee626b;
+    text-transform: uppercase;
+  }
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & h2 {
+    font-size: 35px;
+    padding: 20px 0;
+  }
+
+
+  & button {
+    font-size: 16x;
+    text-transform: uppercase;
+    padding: 10px 10px;
+    height: 50px;
+    border: none;
+    width: 120px;
+    border-radius: 25px;
+    background-color: #ee626b;
+    color: white;
+  }
+}
+
+.card {
+  background-color: #ccccccbb;
+  border-radius: 20px;
+  position: relative;
+  transition: 0.5s;
+
+  & img {
+    border-radius: 25px;
+  }
+
+  & .price {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #008af8;
+    width: 80px;
+    border-radius: 12px;
+    padding: 5px 10px;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+  }
+
+  & .text{
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    & .icon{
+      font-size: 20px;
+      background-color: #ee626b;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      border-radius: 50%;
+    }
+
+    & .GameName{
+      font-size: 18px;
+    }
+  }
+}
+
+.card:hover{
+  & .GameName{
+    color: #008af8;
+  }
+  & .icon {
+    background-color: #008af8;
+  }
+}
