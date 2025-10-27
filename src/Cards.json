@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "img_path": "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-01.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "yes"
+  },
+  {
+    "id": 2,
+    "img_path": "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-02.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "yes"
+  },
+  {
+    "id": 3,
+    "img_path": "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-03.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "yes"
+  },
+  {
+    "id": 4,
+    "img_path": "https://templatemo.com/templates/templatemo_589_lugx_gaming/assets/images/trending-04.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "yes"
+  },
+  {
+    "id": 5,
+    "img_path": "lugx/src/Images/trending-01.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "no"
+  },
+  {
+    "id": 6,
+    "img_path": "lugx/src/Images/trending-01.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "no"
+  },
+  {
+    "id": 7,
+    "img_path": "lugx/src/Images/trending-01.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "no"
+  },
+  {
+    "id": 8,
+    "img_path": "lugx/src/Images/trending-01.jpg",
+    "old_price": 25,
+    "new_price": 20,
+    "game_name": "Assasin Creed",
+    "game_type": "Action",
+    "type_id": 1,
+    "is_tranding": "no"
+  }
+]
