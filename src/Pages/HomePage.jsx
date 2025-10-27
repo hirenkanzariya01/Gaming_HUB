@@ -5,6 +5,7 @@ import { IoCloudDownloadOutline } from "react-icons/io5";
 import { FaRegUserCircle } from "react-icons/fa";
 import { MdOutlinePlayCircle } from "react-icons/md";
 import { PiNewspaperClipping } from "react-icons/pi";
+import Tranding from './Tranding';
 
 
 function HomePage() {
@@ -68,12 +69,9 @@ function HomePage() {
           </div>
 
         </div>
+
       </div>
-
-
-
-
-
+        <Tranding />
     </>
   )
 }

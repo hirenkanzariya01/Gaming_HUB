@@ -112,7 +112,7 @@
 .units {
   position: absolute;
   bottom: -100px;
-  padding: 0 120px;
+  padding: 0 115px;
   display: flex;
   justify-content: space-between;
   gap: 30px;
@@ -127,6 +127,12 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+
+  & .unit:hover{
+    & .icon{
+      background-color: #ee626b;
+    }
   }
 
   & .icon {
